@@ -1,0 +1,16 @@
+{
+  "name": "voxel-game",
+  "version": "1.0.0",
+  "description": "A voxel game built with Node.js and Three.js",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "three": "^0.126.0"
+  },
+  "devDependencies": {},
+  "keywords": [],
+  "author": "rafaelwong780-hash",
+  "license": "MIT"
+}
